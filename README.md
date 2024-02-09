@@ -1,1 +1,2 @@
 prva zmena
+druha zmena
